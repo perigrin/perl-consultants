@@ -4,9 +4,9 @@ This is at the moment a list of consultants that operate in the Perl space. I ho
 
 ## The list
 
-Best Practical
-Ion Zero
-Infinity Interactive
-Shadow Cat
-Tamarou
+* Best Practical
+* Ion Zero
+* Infinity Interactive
+* Shadow Cat
+* Tamarou
 
