@@ -5,11 +5,10 @@ This is at the moment a list of consultants that operate in the Perl space. I ho
 ## The list
 
 * Best Practical
-* Ion Zero
+* Consult::Perl
 * Infinity Interactive
+* Ion Zero
 * Micro Technology Services, Inc.
 * Shadow Cat
 * Stonehenge
 * Tamarou
-* Consult::Perl
-
