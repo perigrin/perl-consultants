@@ -9,6 +9,7 @@ This is at the moment a list of consultants that operate in the Perl space. I ho
 * Infinity Interactive
 * Ion Zero
 * Micro Technology Services, Inc.
+* Plain Black
 * Shadow Cat
 * Stonehenge
 * Tamarou
