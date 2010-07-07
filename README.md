@@ -11,4 +11,5 @@ This is at the moment a list of consultants that operate in the Perl space. I ho
 * Shadow Cat
 * Stonehenge
 * Tamarou
+* Consult::Perl
 
