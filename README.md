@@ -4,18 +4,15 @@ This is at the moment a list of consultants that operate in the Perl space. I ho
 
 ## The list
 
-* Best Practical
-* Consult::Perl
-* Infinity Interactive
-* Ion Zero
-* Micro Technology Services, Inc.
-* Plain Black
-* Shadow Cat
-* Stonehenge
-* Tamarou
-* [Mutation Grid](http://mutationgrid.com)
-
-## Active? 
-
+* [Best Practical](http://bestpractical.com/)
+* [Consult::Perl](http://consult-perl.dk/)
 * [develooper](http://develooper.com/)
+* [Infinity Interactive](http://www.iinteractive.com/)
+* [Ion Zero](http://www.ionzero.com/)
+* [Micro Technology Services, Inc.](http://www.mitsi.com/)
+* [Mutation Grid](http://mutationgrid.com)
+* [Plain Black](http://www.plainblack.com/)
+* [Shadow Cat](http://www.shadowcat.co.uk/)
+* [Stonehenge](http://www.stonehenge.com/)
+* [Tamarou](http://tamarou.com/)
 
