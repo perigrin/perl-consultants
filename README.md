@@ -6,7 +6,7 @@ now identifying a list is enough.
 
 Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/perl5/index.cgi?perl_businesses).
 
-## The list
+## The List
 
 
 * [Aaron TEEJAY Trevena](https://www.socialtext.net/perl5/index.cgi?aaron_teejay_trevena)
