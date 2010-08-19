@@ -1,6 +1,10 @@
 # Perl Consultants
 
-This is at the moment a list of consultants that operate in the Perl space. I hope to expand this into something more formal but for right now identifying  a list is enough.
+This is at the moment a list of consultants that operate in the Perl
+space. I hope to expand this into something more formal but for right
+now identifying a list is enough.
+
+Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/perl5/index.cgi?perl_businesses).
 
 ## The list
 
@@ -21,6 +25,7 @@ This is at the moment a list of consultants that operate in the Perl space. I ho
 * [Mutation Grid](http://mutationgrid.com)
 * Pathmedia
 * [Plain Black](http://www.plainblack.com/)
+* [Perl Hunter](PerlHunter.com)
 * [Revolution Systems](http://www.revsys.com/)
 * [Shadow Cat](http://www.shadowcat.co.uk/)
 * [Stonehenge](http://www.stonehenge.com/)
