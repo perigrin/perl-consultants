@@ -31,4 +31,4 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Stonehenge](http://www.stonehenge.com/)
 * [Tamarou](http://tamarou.com/)
 * Unisolve
-
+* [Webgroup Consulting AG](http://webgroup.ch/)
