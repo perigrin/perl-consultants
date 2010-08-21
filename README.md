@@ -25,7 +25,7 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Mutation Grid](http://mutationgrid.com)
 * Pathmedia
 * [Plain Black](http://www.plainblack.com/)
-* [Perl Hunter](PerlHunter.com)
+* [Perl Hunter](http://PerlHunter.com)
 * [Revolution Systems](http://www.revsys.com/)
 * [Shadow Cat](http://www.shadowcat.co.uk/)
 * [Stonehenge](http://www.stonehenge.com/)
