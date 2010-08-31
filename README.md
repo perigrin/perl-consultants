@@ -19,6 +19,7 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Foresite](http://www.fsite.com/)
 * [Gabor Szabo](https://www.socialtext.net/perl5/index.cgi?gabor_szabo)
 * [Infinity Interactive](http://www.iinteractive.com/)
+* [Int80](http://www.int80.biz/)
 * [Ion Zero](http://www.ionzero.com/)
 * [Micro Technology Services, Inc.](http://www.mitsi.com/)
 * [Muldis Data Systems](http://www.muldis.com/)
