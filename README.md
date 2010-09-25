@@ -28,6 +28,7 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Perl Hunter](http://PerlHunter.com)
 * [Revolution Systems](http://www.revsys.com/)
 * [Shadow Cat](http://www.shadowcat.co.uk/)
+* [Smart-Websolutions Windolph und Bäcker GbR](http://www.smart-websolutions.de)
 * [Stonehenge](http://www.stonehenge.com/)
 * [Tamarou](http://tamarou.com/)
 * Unisolve
