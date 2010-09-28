@@ -21,6 +21,7 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Infinity Interactive](http://www.iinteractive.com/)
 * [Int80](http://www.int80.biz/)
 * [Ion Zero](http://www.ionzero.com/)
+* [Magnum Solutions](http://mag-sol.com/)
 * [Micro Technology Services, Inc.](http://www.mitsi.com/)
 * [Muldis Data Systems](http://www.muldis.com/)
 * [Mutation Grid](http://mutationgrid.com)
