@@ -31,6 +31,7 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Revolution Systems](http://www.revsys.com/)
 * [Shadow Cat](http://www.shadowcat.co.uk/)
 * [Perl-Services.de](http://www.perl-services.de)
+* [Scratch Computing](http://scratchcomputing.com/)
 * [Stonehenge](http://www.stonehenge.com/)
 * [Tamarou](http://tamarou.com/)
 * Unisolve
