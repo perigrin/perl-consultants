@@ -17,7 +17,7 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 * [Corbas](http://www.corbas.co.uk/)
 * [develooper](http://develooper.com/)
 * [Foresite](http://www.fsite.com/)
-* [Gabor Szabo](https://www.socialtext.net/perl5/index.cgi?gabor_szabo)
+* [Gabor Szabo](https://perlmaven.com/)
 * [Infinity Interactive](http://www.iinteractive.com/)
 * [Int80](http://www.int80.biz/)
 * [Ion Zero](http://www.ionzero.com/)
