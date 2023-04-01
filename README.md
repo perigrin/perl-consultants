@@ -11,6 +11,8 @@ Parts of this list are copied from [the Perl5 wiki](https://www.socialtext.net/p
 
 * [Aaron TEEJAY Trevena](https://www.socialtext.net/perl5/index.cgi?aaron_teejay_trevena)
 * [Aghreni Technologies](http://www.aghreni.com/index.html)
+* [All around the World]
+(https://allaroundtheworld.fr/)
 * [Best Practical](http://bestpractical.com/)
 * [Cardwell IT Ltd.](http://cardwellit.com/)
 * [Consult::Perl](http://consult-perl.dk/)
